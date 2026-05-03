@@ -114,3 +114,7 @@ A reconstruction is considered complete when:
 ## Notes
 
 This skill is for image-to-PPT reconstruction. If the original native `.pptx` file is available, edit that deck directly instead of reconstructing it from screenshots.
+
+## License
+
+MIT License. See [LICENSE](LICENSE) for details.
